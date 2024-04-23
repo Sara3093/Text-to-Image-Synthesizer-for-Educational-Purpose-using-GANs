@@ -1,0 +1,1 @@
+# Text-to-Image-Synthesizer-for-Educational-Purpose-using-GANs
